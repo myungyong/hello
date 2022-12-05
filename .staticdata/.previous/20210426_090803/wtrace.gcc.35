@@ -1,1 +1,0 @@
-exec-+-35-+-1-+-F:\Sample\zlib-1.2.3_for_STATIC-+-C:\gcc\5.3.0\32bit\bin\gcc.exe-+-gcc -O3 -DUSE_MMAP -ID:\CodeScroll\CT3.2.2x86_wsp\.metadata\.plugins\com.codescroll.ut.embedded\CTT_06\TestFixture -ID:\CodeScroll\CT3.2.2x86_wsp\.metadata\.plugins\com.codescroll.ut.embedded\CTT_06\TestFixture\cs -c -o inftrees.o inftrees.c 

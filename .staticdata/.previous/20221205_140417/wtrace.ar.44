@@ -1,0 +1,14 @@
+exec-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello-+-C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\ar.exe-+-ar rc libz.a adler32.o compress.o crc32.o gzio.o uncompr.o deflate.o trees.o zutil.o inflate.o infback.o inftrees.o inffast.o 
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\libz.a
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\adler32.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\compress.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\crc32.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\gzio.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\uncompr.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\deflate.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\trees.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\zutil.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\inflate.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\infback.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\inftrees.o
+open-+-44-+-4-+-C:\Users\choig\OneDrive\문서\hello\inffast.o

@@ -42,7 +42,7 @@
 /* ===========================================================================
  * Constants
  */
-
+#define MAX_ML_BITS 7
 #define MAX_BL_BITS 7
 /* Bit length codes must not exceed MAX_BL_BITS bits */
 

@@ -1,0 +1,437 @@
+(11020)(    1)ME: C:\Windows\system32\conhost.exe
+(11020)(    1) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(11020)(    1) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(11020) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(11020)(    1) + Ignored EXENAME: conhost
+(21496)(    2)ME: C:\Windows\system32\cmd.exe
+(21496)(    2) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(21496)(    2) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(21496) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(21496)(    2) + Ignored EXENAME: cmd
+(18384)(    3)ME: C:\Windows\system32\chcp.com
+(18384)(    3) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(18384)(    3) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(18384) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(18384)(    3) + Ignored EXENAME: chcp
+(22368)(    4)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\mingw32-make.exe
+(22368)(    4) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(22368)(    4) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(22368) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(22368)(    4) + Ignored EXENAME: mingw32-make
+(25692)(    6)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(25692)(    6) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(25692)(    6) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(25692) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(25692)(    6)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(25692)(    6) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(25692)(    6) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(25692) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(22164)(    7)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(22164)(    7) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(22164)(    7) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(22164) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(22164)(    7) + Ignored EXENAME: as
+(22164)(    7)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(22164)(    7) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(22164)(    7) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(22164) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(28272)(    5)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(28272)(    5) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(28272)(    5) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(28272) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(28272)(    5)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(28272)(    5) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(28272)(    5) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(28272) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(18568)(    9)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(18568)(    9) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(18568)(    9) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(18568) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(18568)(    9)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(18568)(    9) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(18568)(    9) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(18568) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 5884)(   10)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+( 5884)(   10) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 5884)(   10) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 5884) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 5884)(   10) + Ignored EXENAME: as
+( 5884)(   10)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+( 5884)(   10) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 5884)(   10) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 5884) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27620)(    8)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(27620)(    8) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27620)(    8) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27620) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27620)(    8)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(27620)(    8) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27620)(    8) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27620) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26404)(   12)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(26404)(   12) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26404)(   12) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26404) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26404)(   12)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(26404)(   12) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26404)(   12) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26404) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19396)(   13)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(19396)(   13) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(19396)(   13) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(19396) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19396)(   13) + Ignored EXENAME: as
+(19396)(   13)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(19396)(   13) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(19396)(   13) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(19396) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26048)(   11)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(26048)(   11) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26048)(   11) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26048) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26048)(   11)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(26048)(   11) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26048)(   11) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26048) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(24284)(   15)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(24284)(   15) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(24284)(   15) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(24284) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(24284)(   15)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(24284)(   15) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(24284)(   15) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(24284) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27804)(   16)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27804)(   16) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27804)(   16) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27804) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27804)(   16) + Ignored EXENAME: as
+(27804)(   16)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27804)(   16) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27804)(   16) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27804) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19056)(   14)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(19056)(   14) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(19056)(   14) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(19056) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19056)(   14)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(19056)(   14) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(19056)(   14) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(19056) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(25952)(   18)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(25952)(   18) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(25952)(   18) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(25952) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(25952)(   18)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(25952)(   18) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(25952)(   18) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(25952) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(18448)(   19)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(18448)(   19) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(18448)(   19) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(18448) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(18448)(   19) + Ignored EXENAME: as
+(18448)(   19)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(18448)(   19) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(18448)(   19) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(18448) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(11892)(   17)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(11892)(   17) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(11892)(   17) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(11892) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(11892)(   17)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(11892)(   17) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(11892)(   17) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(11892) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(25756)(   21)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(25756)(   21) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(25756)(   21) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(25756) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(25756)(   21)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(25756)(   21) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(25756)(   21) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(25756) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(14728)(   22)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(14728)(   22) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(14728)(   22) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(14728) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(14728)(   22) + Ignored EXENAME: as
+(14728)(   22)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(14728)(   22) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(14728)(   22) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(14728) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(18788)(   20)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(18788)(   20) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(18788)(   20) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(18788) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(18788)(   20)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(18788)(   20) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(18788)(   20) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(18788) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19164)(   24)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(19164)(   24) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(19164)(   24) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(19164) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19164)(   24)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(19164)(   24) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(19164)(   24) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(19164) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27172)(   25)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27172)(   25) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27172)(   25) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27172) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27172)(   25) + Ignored EXENAME: as
+(27172)(   25)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27172)(   25) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27172)(   25) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27172) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26884)(   23)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(26884)(   23) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26884)(   23) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26884) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26884)(   23)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(26884)(   23) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26884)(   23) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26884) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(17780)(   27)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(17780)(   27) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(17780)(   27) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(17780) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(17780)(   27)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(17780)(   27) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(17780)(   27) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(17780) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19168)(   28)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(19168)(   28) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(19168)(   28) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(19168) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(19168)(   28) + Ignored EXENAME: as
+(19168)(   28)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(19168)(   28) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(19168)(   28) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(19168) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26660)(   26)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(26660)(   26) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26660)(   26) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26660) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26660)(   26)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(26660)(   26) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26660)(   26) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26660) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(24228)(   30)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(24228)(   30) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(24228)(   30) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(24228) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(24228)(   30)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(24228)(   30) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(24228)(   30) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(24228) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27076)(   31)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27076)(   31) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27076)(   31) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27076) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27076)(   31) + Ignored EXENAME: as
+(27076)(   31)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27076)(   31) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27076)(   31) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27076) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(12132)(   29)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(12132)(   29) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(12132)(   29) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(12132) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(12132)(   29)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(12132)(   29) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(12132)(   29) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(12132) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(21144)(   33)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(21144)(   33) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(21144)(   33) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(21144) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(21144)(   33)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(21144)(   33) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(21144)(   33) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(21144) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 2664)(   34)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+( 2664)(   34) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 2664)(   34) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 2664) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 2664)(   34) + Ignored EXENAME: as
+( 2664)(   34)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+( 2664)(   34) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 2664)(   34) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 2664) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 4384)(   32)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+( 4384)(   32) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 4384)(   32) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 4384) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 4384)(   32)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+( 4384)(   32) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 4384)(   32) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 4384) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27628)(   36)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(27628)(   36) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27628)(   36) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27628) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27628)(   36)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(27628)(   36) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27628)(   36) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27628) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26800)(   37)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(26800)(   37) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26800)(   37) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26800) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(26800)(   37) + Ignored EXENAME: as
+(26800)(   37)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(26800)(   37) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(26800)(   37) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(26800) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(17768)(   35)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(17768)(   35) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(17768)(   35) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(17768) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(17768)(   35)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(17768)(   35) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(17768)(   35) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(17768) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(12972)(   39)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(12972)(   39) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(12972)(   39) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(12972) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(12972)(   39)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(12972)(   39) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(12972)(   39) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(12972) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27804)(   40)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27804)(   40) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27804)(   40) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27804) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27804)(   40) + Ignored EXENAME: as
+(27804)(   40)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27804)(   40) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27804)(   40) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27804) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(14432)(   38)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(14432)(   38) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(14432)(   38) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(14432) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(14432)(   38)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(14432)(   38) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(14432)(   38) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(14432) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 9456)(   42)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+( 9456)(   42) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 9456)(   42) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 9456) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 9456)(   42)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+( 9456)(   42) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 9456)(   42) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 9456) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27896)(   43)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27896)(   43) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27896)(   43) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27896) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27896)(   43) + Ignored EXENAME: as
+(27896)(   43)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27896)(   43) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27896)(   43) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27896) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(16016)(   41)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(16016)(   41) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(16016)(   41) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(16016) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(16016)(   41)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(16016)(   41) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(16016)(   41) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(16016) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 6500)(   44)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\ar.exe
+( 6500)(   44) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 6500)(   44) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 6500) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 6500)(   44)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\ar.exe
+( 6500)(   44) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 6500)(   44) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 6500) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27172)(   46)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\collect2.exe
+(27172)(   46) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27172)(   46) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27172) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27172)(   46) + Ignored EXENAME: collect2
+(23252)(   47)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\ld.exe
+(23252)(   47) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(23252)(   47) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(23252) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(23252)(   47)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\ld.exe
+(23252)(   47) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(23252)(   47) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(23252) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27172)(   46)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\collect2.exe
+(27172)(   46) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27172)(   46) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27172) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(20796)(   45)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(20796)(   45) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(20796)(   45) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(20796) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(20796)(   45)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(20796)(   45) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(20796)(   45) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(20796) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(24508)(   49)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(24508)(   49) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(24508)(   49) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(24508) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(24508)(   49)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\cc1.exe
+(24508)(   49) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(24508)(   49) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(24508) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27120)(   50)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27120)(   50) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27120)(   50) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27120) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27120)(   50) + Ignored EXENAME: as
+(27120)(   50)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\as.exe
+(27120)(   50) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27120)(   50) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27120) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 5884)(   48)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+( 5884)(   48) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 5884)(   48) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 5884) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 5884)(   48)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+( 5884)(   48) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+( 5884)(   48) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+( 5884) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27172)(   52)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\collect2.exe
+(27172)(   52) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27172)(   52) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27172) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27172)(   52) + Ignored EXENAME: collect2
+(27120)(   53)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\ld.exe
+(27120)(   53) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27120)(   53) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27120) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27120)(   53)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\lib\gcc\mingw32\5.3.0\..\..\..\..\mingw32\bin\ld.exe
+(27120)(   53) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27120)(   53) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27120) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(27172)(   52)ME: c:\users\choig\appdata\roaming\codescroll\compiler\gcc\5.3.0\32bit\bin\..\libexec\gcc\mingw32\5.3.0\collect2.exe
+(27172)(   52) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(27172)(   52) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(27172) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(22908)(   51)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(22908)(   51) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(22908)(   51) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(22908) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(22908)(   51)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\gcc.exe
+(22908)(   51) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(22908)(   51) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(22908) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(22368)(    4)ME: C:\Users\choig\AppData\Roaming\CodeScroll\Compiler\gcc\5.3.0\32bit\bin\mingw32-make.exe
+(22368)(    4) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(22368)(    4) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(22368) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(24588)(   54)ME: C:\Windows\system32\chcp.com
+(24588)(   54) + HOME: C:\Users\choig\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.2.0\
+(24588)(   54) + WORKING: C:\Users\choig\OneDrive\문서\hello\.staticdata
+(24588) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(24588)(   54) + Ignored EXENAME: chcp

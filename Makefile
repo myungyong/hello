@@ -37,7 +37,7 @@ SHAREDLIBM=libz.so.1
 AR=ar rc
 RANLIB=ranlib
 TAR=tar
-SHELL=/bin/sh
+SHELL=cmd
 EXE=.exe
 
 prefix =/usr/local

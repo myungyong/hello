@@ -1,30 +1,76 @@
 {
-  "REANALYZE": false,
-  "STATIC_SERVER_ADDRESS": "211.47.191.39",
-  "TOOLCHAIN_FILENAME": "gcc53.sconf",
-  "PROJECT_KEY": "T01",
-  "WORKING_DIR": "F:\\Sample\\zlib-1.2.3_for_STATIC\\.staticdata",
-  "COMMAND": [],
-  "PARSING": {
-    "C": {
-      "include": [],
-      "conf": [],
-      "removes": []
+    "REANALYZE": false,
+    "WORKING_DIR": "C:\\Users\\choig\\OneDrive\\문서\\hello\\.staticdata",
+    "COMPILER_INSTALLATION_PATH": [],
+    "PRE_BUILD_COMMAND": "mingw32-make clean",
+    "COMMAND": [
+        "mingw32-make"
+    ],
+    "STATIC_SERVER_ADDRESS": "211.47.191.43",
+    "PROJECT_KEY": "ZG01",
+    "TOOLCHAIN_FILENAME": "gcc53.sconf",
+    "PARSING": {
+        "C": {
+            "include": [
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\lib\\gcc\\mingw32\\5.3.0\\include",
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\include",
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\lib\\gcc\\mingw32\\5.3.0\\include-fixed"
+            ],
+            "conf": [],
+            "removes": []
+        },
+        "CPP": {
+            "include": [
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\lib\\gcc\\mingw32\\5.3.0\\include\\c++",
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32",
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\backward",
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\lib\\gcc\\mingw32\\5.3.0\\include",
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\include",
+                "c:\\users\\choig\\appdata\\roaming\\codescroll\\compiler\\gcc\\5.3.0\\32bit\\lib\\gcc\\mingw32\\5.3.0\\include-fixed"
+            ],
+            "conf": [],
+            "removes": []
+        }
     },
-    "CPP": {
-      "include": [],
-      "conf": [],
-      "removes": []
+    "USER_DEFINED_EXTENSIONS": {
+        "header": [
+            ".h",
+            ".H",
+            ".hpp",
+            ".HPP",
+            ".tcc",
+            ".inl",
+            ".INL"
+        ],
+        "source": [
+            ".c",
+            ".C",
+            ".c++",
+            ".C++",
+            ".cpp",
+            ".CPP",
+            ".cxx",
+            ".CXX",
+            ".cc",
+            ".CC",
+            ".cp",
+            ".CP"
+        ],
+        "object": [
+            ".o",
+            ".O",
+            ".lo",
+            ".obj",
+            ".OBJ"
+        ]
+    },
+    "MULTI_PROCESSOR": false,
+    "EXCLUSIONS": [],
+    "EXTRA_OPTIONS": {
+        "SPECIFIED_ANALYSIS_AGENT_VERSION": "",
+        "ASSIGN_TO_COMMITTER": {
+            "enable": true,
+            "path_replace_map": []
+        }
     }
-  },
-  "COMPILER_INSTALLATION_PATH": [],
-  "USER_DEFINED_EXTENSIONS": {
-    "header": [
-	   ".ipp"
-	],
-    "source": [],
-    "object": []
-  },
-  "MULTI_PROCESSOR": false,
-  "EXCLUSIONS": []
 }

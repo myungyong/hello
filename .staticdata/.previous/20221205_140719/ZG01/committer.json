@@ -1,0 +1,170 @@
+{
+    "C:/Users/choig/OneDrive/문서/hello/adler32.c": [
+        {
+            "start": 1,
+            "end": 237,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/compress.c": [
+        {
+            "start": 1,
+            "end": 79,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/crc32.c": [
+        {
+            "start": 1,
+            "end": 423,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/crc32.h": [
+        {
+            "start": 1,
+            "end": 441,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/deflate.c": [
+        {
+            "start": 1,
+            "end": 1736,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/deflate.h": [
+        {
+            "start": 1,
+            "end": 331,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/example.c": [
+        {
+            "start": 1,
+            "end": 565,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/gzio.c": [
+        {
+            "start": 1,
+            "end": 1026,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/infback.c": [
+        {
+            "start": 1,
+            "end": 623,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/inffast.c": [
+        {
+            "start": 1,
+            "end": 318,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/inffast.h": [
+        {
+            "start": 1,
+            "end": 11,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/inffixed.h": [
+        {
+            "start": 1,
+            "end": 94,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/inflate.c": [
+        {
+            "start": 1,
+            "end": 1368,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/inflate.h": [
+        {
+            "start": 1,
+            "end": 115,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/inftrees.c": [
+        {
+            "start": 1,
+            "end": 329,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/inftrees.h": [
+        {
+            "start": 1,
+            "end": 55,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/minigzip.c": [
+        {
+            "start": 1,
+            "end": 322,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/trees.c": [
+        {
+            "start": 1,
+            "end": 1219,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/trees.h": [
+        {
+            "start": 1,
+            "end": 128,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/uncompr.c": [
+        {
+            "start": 1,
+            "end": 61,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/zconf.h": [
+        {
+            "start": 1,
+            "end": 332,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/zlib.h": [
+        {
+            "start": 1,
+            "end": 1357,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/zutil.c": [
+        {
+            "start": 1,
+            "end": 318,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ],
+    "C:/Users/choig/OneDrive/문서/hello/zutil.h": [
+        {
+            "start": 1,
+            "end": 269,
+            "email": "myungyong.choi@gmail.com"
+        }
+    ]
+}
