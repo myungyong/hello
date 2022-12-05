@@ -1,0 +1,28 @@
+{
+  "REANALYZE": false,
+  "STATIC_SERVER_ADDRESS": "211.47.191.43",
+  "TOOLCHAIN_FILENAME": "gcc53.sconf",
+  "PROJECT_KEY": "M02",
+  "WORKING_DIR": "F:\\Sample\\zlib-1.2.3_for_STATIC\\.staticdata",
+  "COMMAND": [],
+  "PARSING": {
+    "C": {
+      "include": [],
+      "conf": [],
+      "removes": []
+    },
+    "CPP": {
+      "include": [],
+      "conf": [],
+      "removes": []
+    }
+  },
+  "COMPILER_INSTALLATION_PATH": [],
+  "USER_DEFINED_EXTENSIONS": {
+    "header": [],
+    "source": [],
+    "object": []
+  },
+  "MULTI_PROCESSOR": false,
+  "EXCLUSIONS": []
+}

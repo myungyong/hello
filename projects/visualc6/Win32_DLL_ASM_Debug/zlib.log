@@ -1,0 +1,18 @@
+﻿빌드 시작: 2015-10-30 오후 2:36:55
+     1>2 노드의 "F:\Sample\zlib-1.2.3_1\projects\visualc6\zlib.vcxproj" 프로젝트(rebuild 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 ".\Win32_DLL_ASM_Debug\zlib.unsuccessfulbuild"을(를) 만들고 있습니다.
+       CustomBuild:
+         Assembling...
+          Assembling: F:\Sample\zlib-1.2.3_1\contrib\masmx86\gvmat32.asm
+         Assembling...
+          Assembling: F:\Sample\zlib-1.2.3_1\contrib\masmx86\inffas32.asm
+     1>F:\Sample\zlib-1.2.3_1\contrib\masmx86\inffas32.asm(647): error A2070: invalid instruction operands
+     1>F:\Sample\zlib-1.2.3_1\contrib\masmx86\inffas32.asm(649): error A2070: invalid instruction operands
+     1>F:\Sample\zlib-1.2.3_1\contrib\masmx86\inffas32.asm(663): error A2070: invalid instruction operands
+     1>F:\Sample\zlib-1.2.3_1\contrib\masmx86\inffas32.asm(720): error A2070: invalid instruction operands
+     1>"F:\Sample\zlib-1.2.3_1\projects\visualc6\zlib.vcxproj" 프로젝트를 빌드했습니다(rebuild 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.26
